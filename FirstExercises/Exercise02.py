@@ -4,6 +4,8 @@ Exercise 02
 You are given a string. Split the string on a “ ” (whitespace) delimiter and then
 join them using hyphens (“-”). i.e.:
 I Have a Dream! → [’I', ’Have’, ’a’, ’Dream!’] → I-Have-a-Dream!
+
+Author: Shen Zhengdong
 """
 # 用户输入一个字符串
 string = input("Enter a string: \n")

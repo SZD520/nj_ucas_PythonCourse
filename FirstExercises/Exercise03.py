@@ -2,6 +2,8 @@
 """
 Exercise 03
 Find emails in a text, split username and mail server
+
+Author: Shen Zhengdong
 """
 import re
 text = input("Enter a text: \n")

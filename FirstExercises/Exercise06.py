@@ -6,6 +6,8 @@ substring occurs in the given string. String traversal will take place from left
 right, not from right to left. i.e.:
 Print the text in a string’, ’in’
 the result should be 3.
+
+Author: Shen Zhengdong
 """
 # 用户输入一个字符串
 string = input("Enter a string: \n")

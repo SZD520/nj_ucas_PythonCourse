@@ -3,6 +3,8 @@
 Exercise 05
 The code reads three coefficients a, b and c of quadratic equation
 (ax2 + bx + c = 0, a ̸= 0) from STDIN and print it two roots.
+
+Author: Shen Zhengdong
 """
 import math
 

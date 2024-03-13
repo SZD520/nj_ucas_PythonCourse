@@ -10,6 +10,8 @@ ABCDE s = 'ABCDE'
 2 x position = 2, character = 'x'
 Output
 ABxD
+
+Author: Shen Zhengdong
 """
 # 用户输入一个字符串
 string = input("Enter a string: \n")
